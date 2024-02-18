@@ -1,2 +1,2 @@
-# hugo-mock-landing-pag
+# hugo-mock-landing-page
 CIS 3500 HW#1 Part IV
