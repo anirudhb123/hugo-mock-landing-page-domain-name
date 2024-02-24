@@ -1,7 +1,7 @@
 baseURL = 'https://anirudhb123.github.io/hugo-mock-landing-page/'
 title = "TutorWizard"
 author = "Anirudh Bharadwaj"
-#copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/filipecarneiro/hugo-bootstrap-theme/blob/main/LICENSE\">MIT</a> Licensed."
+copyright = "Anirudh Bharadwaj"
 
 timeZone = 'Europe/London'
 
