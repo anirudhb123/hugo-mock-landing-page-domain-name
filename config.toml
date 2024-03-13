@@ -1,4 +1,4 @@
-baseURL = 'https://anirudhb123.github.io/hugo-mock-landing-page-domain-name/'
+#baseURL = 'https://anirudhb123.github.io/hugo-mock-landing-page-domain-name/'
 title = "TutorWizard"
 author = "Anirudh Bharadwaj"
 copyright = "Anirudh Bharadwaj"
