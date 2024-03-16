@@ -1,6 +1,6 @@
 # hugo-mock-landing-page-autodeployed
 
-This repository hosts a mock landing page built with Hugo at https://magic.beauty/, automatically deployed to GitHub Pages using GitHub Actions.
+This repository hosts a mock landing page built with Hugo at https://mydomain.beauty/, automatically deployed to GitHub Pages using GitHub Actions.
 
 ## Workflow Description
 
